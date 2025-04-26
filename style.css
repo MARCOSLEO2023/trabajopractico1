@@ -12,6 +12,7 @@ body {
     width: 100%;
     margin-bottom: 1rem;
     border: 1px solid #ccc;
+    background-color: #3782b3;
   }
   
   th, td {
@@ -88,7 +89,7 @@ body {
   }
   
   ul:hover {
-    color: #434982;
+    color: #dc9105;
   
   }
   
