@@ -23,3 +23,9 @@ table {
     color: #555;
   }
   
+  img body
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
